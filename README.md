@@ -3,7 +3,7 @@
 
 ![tsne](tsne.png)
 
-## 2. Supplementary Results of Table 1
+## 2. Supplementary Results of Table 2
 
 | Data set | Metric |   K-Means   |     SC      | GAE         |    VGAE     |      ARGAE      |   ARVGAE    |    CCGC     |      DFCN       |    DAEGC    |      EGAE       |      Ours       |
 | :------: | :----: | :---------: | :---------: | ----------- | :---------: | :-------------: | :---------: | :---------: | :-------------: | :---------: | :-------------: | :-------------: |
